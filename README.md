@@ -44,9 +44,20 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52c04551-795c-4165-a43b-cd2f04ab2a04" />
 
-### Name:
-### Register Number:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bc3e039f-33ef-4ffb-8b87-316fcd1a241a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/61c8ee20-f32c-4874-b5f7-b321cbea8001" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0fd25cb0-ed75-4812-bf19-8a35d6b2c45d" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c459ea6-0a59-4ce0-8808-9a8d24950d01" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3748538d-f54b-4277-ad5b-9adaeceb925d" />
+
+### Name: SUDHARSAN S
+### Register Number: 212224040334
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
